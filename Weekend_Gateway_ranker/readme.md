@@ -126,11 +126,11 @@ Copy code
 ---
 
 ## 🧑‍💻 Author
-**Your Name**  
-B.Tech / BCA / MCA  
+Manotosh Maity 
 Department of Computer Science
 
 ---
 
 ## 📜 License
+
 This project is for **educational purposes only**.
